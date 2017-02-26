@@ -13,7 +13,7 @@ namespace logic4fun
         {
             InitializeComponent();
 
-            MainPage = new logic4fun.MainPage();
+            MainPage = new logic4fun.View.SierpinskiTriangle();
         }
 
         protected override void OnStart()
